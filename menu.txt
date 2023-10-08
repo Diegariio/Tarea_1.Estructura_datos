@@ -1,0 +1,10 @@
+         
+
+            .--MENU--.
+
+ Ingrese 1 para leer archivo.txt 
+ Ingrese 2 para generar la lista enlazada con existencias y frecuencia 
+ Ingrese 3 para ver la lista ordenada por frecuencia creciente 
+ Ingrese 4 para ver la lista ordenada por frecuencia decreciente 
+ Ingrese 5 para medir la frecuencia de un caracter
+ Ingrese 6 para salir del programa
